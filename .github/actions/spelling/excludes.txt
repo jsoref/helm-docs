@@ -1,0 +1,5 @@
+ignore$
+^LICENSE
+^\.github/
+\.mod$
+\.sum$
